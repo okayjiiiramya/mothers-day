@@ -39,9 +39,6 @@ OR use Live Server in VS Code.
 
 Add your GitHub Pages link here after deployment.
 
-Example:
-
-https://yourusername.github.io/mothers-day-project/
 
 ---
 
